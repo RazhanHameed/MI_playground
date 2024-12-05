@@ -1,2 +1,2 @@
-# MI_playground
-This repo will contain notebooks and experiment to learn mechanistic interpretability
+# Mechanisitic Interpretability Playground
+A playground for replicating and experimenting with mechanistic interpretability papers.
